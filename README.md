@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @prajjwal chaubey
 - 👀 I’m interested in Web Application Development | Website development
 - 🌱 I’m currently learning Node.s | Express.js | Using APIs
+- <!--- 
 - 💞️ I’m looking to collaborate on ...
+- --->
 - 📫 How to reach me : Prajjwal.anand@gmail.com
 
 <!---
