@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @prajjwal chaubey
-- 👀 I’m interested in Web Application Development | Website development
-- 🌱 I’m currently learning Node.s | Express.js | Using APIs
+- 👀 I’m interested in Virualization | Cloud | Containers | Linux | AWS
+- 🌱 I’m currently learning AWS Cloud and Devops
+- 🌱 I have previously worked on Azure Cloud | Mern Stack
 - 📫 How to reach me : Prajjwal.anand@gmail.com
 
 
